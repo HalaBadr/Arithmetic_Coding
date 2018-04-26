@@ -1,1 +1,1 @@
-# Arithmetic_encoding
+# Arithmetic-implementation with rescaling
