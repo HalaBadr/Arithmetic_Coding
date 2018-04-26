@@ -8,8 +8,8 @@ map<char,int>ma;
 
 int main()
 {
-    freopen("input.txt","r",stdin);
-    freopen("output.txt","w",stdout);
+    freopen("in.txt","r",stdin);
+    freopen("out1.txt","w",stdout);
    /* for(int i=0;i<243;i++)cout<<"b";
     return 0;*/
     cin>>s>>s1;                 //set , input
