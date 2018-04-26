@@ -23,8 +23,8 @@ long double btd (string d)      //convert from binary to decimal
 }
 int main()
 {
-    freopen("../encode/output.txt","r",stdin);
-    freopen("output2.txt","w",stdout);
+    freopen("../encode/out1.txt","r",stdin);
+    freopen("out.txt","w",stdout);
     cin>>s;                                 //set
     long double cdf[s.size()+1];
     cdf[0]=0;
